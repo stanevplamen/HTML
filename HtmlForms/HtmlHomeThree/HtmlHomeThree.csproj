@@ -60,6 +60,9 @@
     <Content Include="01\01WebForm.html" />
     <Content Include="02\02StudentsTable.html" />
     <Content Include="03\03ShopTable.html" />
+    <Content Include="03\images\begin.png" />
+    <Content Include="03\images\sort.png" />
+    <Content Include="03\images\prev.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

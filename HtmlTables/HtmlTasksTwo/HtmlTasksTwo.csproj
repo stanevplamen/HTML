@@ -61,6 +61,7 @@
     <Content Include="01\WebPage01.html" />
     <Content Include="02\images\submit.jpg" />
     <Content Include="02\WebPage02.html" />
+    <Content Include="03\script.js" />
     <Content Include="03\WebPage03.html" />
     <Content Include="Web.config" />
   </ItemGroup>

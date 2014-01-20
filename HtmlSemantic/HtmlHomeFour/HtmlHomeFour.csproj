@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="01\01SemanticPage.html" />
     <Content Include="02\02SemanticPage.html" />
+    <Content Include="03\03SemanticPage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

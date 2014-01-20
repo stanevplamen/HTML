@@ -1,13 +1,8 @@
-﻿
-<!DOCTYPE html>
-<html>
-    <htmllang="en" xml:lang="en">
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8" />
-    <meta name="author" content="Plamen" />
         <title>Web Form</title>
-</head>
-           
+</head>        
 <body>
 <form>
 <table border ="1" cellspacing="2">
@@ -56,11 +51,11 @@
                      
         <tr>
             <td>
-                <label for="zip">Zip/Postal code</label>
+                <label for="zipCode">Zip/Postal code</label>
             </td>
                                                    
             <td>
-                <input type="text" name="zip" id="zip" placeholder="1373" />
+                <input type="text" name="zip" id="zipCode" placeholder="1373" />
             </td>
         </tr>
                      
@@ -86,7 +81,8 @@
             <td>
                 <div> (+<input type="text" name="phone" id="phone1" size="4" placeholder="359" /> )
                         <input type="text" name="phone" id="phone2" size="4" placeholder="888" />
-                    - <input type="text" name="phone" id="phone3" placeholder="666666" /> </div>                                                                    
+                    - <input type="text" name="phone" id="phone3" placeholder="666666" /> 
+                </div>                                                                    
             </td>
         </tr>
                      
@@ -134,7 +130,7 @@
             </td>
                                                    
             <td>
-                <input name="season" type="radio" id="spring" value="spring" />
+                <input name="season" type="radio" id="spring" value="spring" checked />
                 <label for="spring">Spring 2006</label>
                 <input name="season" type="radio" id="summer" value="summer" />
                 <label for="summer">Summer 2006</label>
